@@ -1,4 +1,4 @@
-#Restaurant Success Analysis
+# Restaurant Success Analysis
 ## Problem Statement
 This project aims to explore how user engagement (reviews, tips, check-ins) impacts business success metrics (review count, ratings) in the restaurant industry using the Yelp dataset.
 
