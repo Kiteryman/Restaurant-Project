@@ -39,3 +39,4 @@ Distribution of business success matrics are shown below:-
 - The correlations show that the user engagement across different platforms is related, higher activity in one area tends to vbe associated with higher activity in the others.
 - Businesses should focus on the strategies that increase all types of user engagement, as increases in one area will positively affect the others.
 
+### Difference in the user engagement between high-rated and low-rated businesses
