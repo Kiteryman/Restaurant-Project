@@ -63,7 +63,7 @@ Distribution of business success matrics are shown below:-
 - 'useful', 'funny' and 'cool' are attributes associated with user reviews. They represent the feedback provided by the users about the usefulness, humor or coolness of a particular review.
 - Higher counts of useful, funny and cool reviews suggest greater user engagement and satisfaction, which are the main factors for contributing to a restaurant's success.
 
-### Difference of engagement of elite and non-elite user
+### Difference of engagement of elite and non-elite users
 <img width="642" alt="image" src="https://github.com/Kiteryman/Restaurant-Project/assets/170436249/77f22e72-afea-41de-81c1-acc56c5ff73b">
 
 - Elite users are recognized of having 'Elite' status by Yelp and means these users are active and have high-quality contributions
