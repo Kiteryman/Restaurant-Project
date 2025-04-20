@@ -55,7 +55,7 @@ Distribution of business success matrics are shown below:-
 <img width="643" alt="image" src="https://github.com/Kiteryman/Restaurant-Project/assets/170436249/aeac1f91-f465-4bbb-9c7a-8195d34510b6">
 
 - Successful businesses with ratings higher than 3.5 show consistent and possibly increasing user engagement over time.
-- High rated restayrants maintain a steady or growing level of user engagement over time, indicating ongoing customer interest and satisfaction.
+- High rated restaurants maintain a steady or growing level of user engagement over time, indicating ongoing customer interest and satisfaction.
 
 ### Correlation of sentiments of reviews and tips and the success metrics of restaurants
 <img width="643" alt="image" src="https://github.com/Kiteryman/Restaurant-Project/assets/170436249/c82a3106-d099-4c99-ac20-94b2c23f7574">
